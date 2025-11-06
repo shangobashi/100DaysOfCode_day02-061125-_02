@@ -11,7 +11,11 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2",
+    "request-promise": "^0.0.1"
+  },
   "devDependencies": {
-    "@vercel/node": "^5.5.4"
+    "@vercel/node": "^2.3.0"
   }
 }
